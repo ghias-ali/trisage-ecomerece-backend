@@ -44,5 +44,5 @@
       }
     }
   },
-  "mongodb": "mongodb://localhost:27017/trisage_ecomerece_backend"
+  "mongodb": "mongodb+srv://ghias-ali:wsmever302@ecomerec.6qpfh.mongodb.net/test"
 }
